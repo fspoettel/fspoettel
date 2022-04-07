@@ -1,4 +1,4 @@
-### Hej!
+### Hey!
 
 I'm Felix, a software engineer from Berlin interested in user interfaces, music and microcontrollers.
 
