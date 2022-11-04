@@ -1,4 +1,4 @@
-### Hey!
+### Hey! ฅʕ ·͡ᴥ·ʔ ฅ
 
 I'm Felix, a developer from Berlin interested in user interfaces, music and microcontrollers.
 
